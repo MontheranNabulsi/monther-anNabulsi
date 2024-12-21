@@ -17,7 +17,7 @@
 ![HTML](https://readmebadge.vercel.app/badges/html.svg)
 ![CSS](https://readmebadge.vercel.app/badges/css.svg)
 
-#Software and Tools
+# Software and Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
