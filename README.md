@@ -54,7 +54,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-## My Stats:
-(Placeholder for your actual stats, if any)
-
