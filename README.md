@@ -41,7 +41,6 @@
 ---
 
 ### Corporate Tools
-![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Teams](https://img.shields.io/badge/Microsoft%20Teams-%230078D4.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Sheets](https://img.shields.io/badge/Google%20Sheets-%2300A652.svg?style=for-the-badge&logo=google-sheets&logoColor=white)
