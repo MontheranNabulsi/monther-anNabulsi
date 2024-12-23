@@ -4,6 +4,11 @@
 ---
 ##<sub><sup>Tools and Technologies</sup></sub>
 ## Tools and Technologies
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%231A202C.svg?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### Java Development Tools
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -42,12 +47,7 @@
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Sheets](https://img.shields.io/badge/Google%20Sheets-%2300A652.svg?style=for-the-badge&logo=google-sheets&logoColor=white)
 
-### Software and Tools
 
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-%231A202C.svg?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
