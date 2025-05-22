@@ -37,7 +37,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 📈 GitHub Stats
 
 ![MontheranNabulsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MontheranNabulsi&show_icons=true&theme=radical)
 
