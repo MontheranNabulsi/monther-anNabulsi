@@ -50,3 +50,4 @@
 ![Teams](https://img.shields.io/badge/Microsoft%20Teams-%230078D4.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+LinkedIn: [Montheran Nabulsi](https://www.linkedin.com/in/montherannabulsi)
