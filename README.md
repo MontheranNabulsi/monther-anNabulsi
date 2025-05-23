@@ -42,7 +42,6 @@
 
 ![MontheranNabulsi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MontheranNabulsi&theme=radical)
 
-![MontheranNabulsi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MontheranNabulsi&layout=compact&theme=radical)
 
 ---
 ### Corporate Tools
