@@ -8,15 +8,17 @@
 |Languages|Frameworks|Databases|
 |---------|----------|---------|
 |![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)|![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)|![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)|
-|![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)|![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)|![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)|
-|![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)|![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)|![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)|
-|![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)|![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)|![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)|
-|![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)|![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)|![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)|
-|![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)|![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)|![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)|
-
-
+|![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)|![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)|![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)|
+|![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)|![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)|![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)|
+|![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)|![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)|![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)|
 
 ---
+
+|DevOps|CI/CD|Tools|
+|------|-----|-----|
+|![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)|![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)|![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)|
+|![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)|![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)|![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?logo=intellij-idea&logoColor=white)|
+
 
 ## ⚙️ Frameworks & Libraries
 
