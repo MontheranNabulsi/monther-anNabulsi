@@ -5,24 +5,17 @@
 
 ---
 
-## 🧠 Languages
+|Languages|Frameworks|Databases|
+|---------|----------|---------|
+|JavaScript|React, Angular, Vue|MySQL, MongoDB|
+|TypeScript|Next.js, NestJS|PostgreSQL, Redis|
+|Python|Django, Flask|SQLite, Firebase|
+|Java|Spring|Oracle, MSSQL|
+|C++, C#, PHP|Laravel, ASP.NET|Firebase|
+|Go, Ruby|Rails|MongoDB|
+|Kotlin, Swift|Flutter, React Native|SQLite|
+|Rust, Dart|Svelte, Nuxt.js, Electron|Redis|
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CD6799?logo=sass&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-89E051?logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
 
 ---
 
