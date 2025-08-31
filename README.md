@@ -49,10 +49,10 @@
 
 | DevOps Tools     | CI/CD Platforms     | Developer Tools     |
 |------------------|---------------------|----------------------|
-| Docker           | GitHub Actions      | VS Code              |
+| Docker           | Postman       | VS Code              |
 | Kubernetes       | GitLab CI/CD        | IntelliJ IDEA        |
-| Jenkins          | CircleCI            | Postman              |
-| Ansible, Terraform | Travis CI         | Figma, Adobe XD      |
+
+
 
 
 ## 🧰 Developer Tools
