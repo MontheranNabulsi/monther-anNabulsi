@@ -45,14 +45,15 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
 
----
+## ⚙️ DevOps & Tools
 
-## 🚀 DevOps & Tools
+| DevOps Tools     | CI/CD Platforms     | Developer Tools     |
+|------------------|---------------------|----------------------|
+| Docker           | GitHub Actions      | VS Code              |
+| Kubernetes       | GitLab CI/CD        | IntelliJ IDEA        |
+| Jenkins          | CircleCI            | Postman              |
+| Ansible, Terraform | Travis CI         | Figma, Adobe XD      |
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)
----
 
 ## 🧰 Developer Tools
 
