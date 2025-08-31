@@ -21,25 +21,3 @@
 |![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)|![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)|![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?logo=intellij-idea&logoColor=white)|
 
 
-
-
----
-
-
-
-## ⚙️ DevOps & Tools
-
-| DevOps Tools     | CI/CD Platforms     | Developer Tools     |
-|------------------|---------------------|----------------------|
-| Docker           | Postman       | VS Code              |
-| Kubernetes       | GitLab CI/CD        | IntelliJ IDEA        |
-
-
-
-
-## 🧰 Developer Tools
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
-
