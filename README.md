@@ -10,7 +10,7 @@
 |![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)|![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)|![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)|
 |![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)|![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)|![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)|
 |![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)|![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)|![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)|
-|![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)|![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)|![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)|
+|![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)|![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)|![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)|
 
 ---
 
@@ -53,6 +53,11 @@
 | Docker           | Postman       | VS Code              |
 | Kubernetes       | GitLab CI/CD        | IntelliJ IDEA        |
 
+|Metric|Value|
+|------|-----|
+|🧮 Total Contributions|6459|
+|📁 Total Repositories|2872|
+|💬 Most Used Languages|JavaScript, TypeScript, Python|
 
 
 
