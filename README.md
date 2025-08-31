@@ -58,10 +58,7 @@
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
 ---
 
 ## 🧰 Developer Tools
