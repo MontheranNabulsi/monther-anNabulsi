@@ -18,7 +18,8 @@
 |DevOps|CI/CD|Tools|
 |------|-----|-----|
 |![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)|![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)|![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)|
-|![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)|![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)|![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?logo=intellij-idea&logoColor=white)|
+|![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)|![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white)|![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?logo=intellij-idea&logoColor=white)|
+
 
 
 
