@@ -12,18 +12,6 @@
 |![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)|![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white)|![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)|
 |![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)|![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)|![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)|
  ## 🧠 Languages & Frameworks
-## 🧠 Languages, Frameworks & Databases
-
-| Languages        | Frameworks & Libraries         | Databases                     |
-|------------------|--------------------------------|-------------------------------|
-| JavaScript       | React, Angular, Vue            | MySQL, PostgreSQL             |
-| TypeScript       | Next.js, NestJS                | MongoDB, SQLite               |
-| Python           | Django, Flask                  | Redis, Firebase               |
-| Java             | Spring                         | Oracle, Microsoft SQL Server  |
-| C++, C#, PHP     | Laravel, ASP.NET, .NET         |                               |
-| Go, Ruby         | Ruby on Rails                  |                               |
-| Kotlin, Swift    | Flutter, React Native          |                               |
-| Rust, Dart       | Svelte, Nuxt.js, Electron      |                               |
 
 ---
 
