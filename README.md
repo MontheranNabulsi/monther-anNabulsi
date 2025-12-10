@@ -10,13 +10,6 @@
 | ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)<br>![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white) |
 | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white) | ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)<br>![Boost](https://img.shields.io/badge/-Boost-00599C?logo=boost&logoColor=white)<br>![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) |
 | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) | ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&logoColor=white)<br>![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white) |
-| ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)<br>![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white) |
-| ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white) | ![Rails](https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&logoColor=white)<br>![Sinatra](https://img.shields.io/badge/-Sinatra-000000?logo=sinatra&logoColor=white) |
-| ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) | ![Gin](https://img.shields.io/badge/-Gin-00ADD8?logo=gin&logoColor=white)<br>![Echo](https://img.shields.io/badge/-Echo-132D46?logo=echo&logoColor=white) |
-| ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white) | ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?logo=jetpack-compose&logoColor=white)<br>![Ktor](https://img.shields.io/badge/-Ktor-0095D5?logo=ktor&logoColor=white) |
-| ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white) | ![SwiftUI](https://img.shields.io/badge/-SwiftUI-FA7343?logo=swift&logoColor=white)<br>![Combine](https://img.shields.io/badge/-Combine-000000?logo=apple&logoColor=white) |
-| ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) |
-| ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white) | ![Rocket](https://img.shields.io/badge/-Rocket-000000?logo=rocket&logoColor=white)<br>![Actix](https://img.shields.io/badge/-Actix-000000?logo=actix&logoColor=white) |
 
 |DevOps|CI/CD|Tools|
 |------|-----|-----|
